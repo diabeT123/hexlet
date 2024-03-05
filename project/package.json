@@ -1,0 +1,23 @@
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Первый npm пакет",
+  "main": "index.js",
+  "scripts": {
+    "test": "624848"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/diabeT123/hexlet-js.git"
+  },
+  "keywords": [
+    "624848(((((Kk"
+  ],
+  "author": "Саид",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diabeT123/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/diabeT123/hexlet-js#readme"
+}
